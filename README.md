@@ -1,6 +1,6 @@
 # 김성봉 (Seongbong Kim)
 
-**Java/Spring Boot 기반 서버 개발자**  
+**Java/Spring Boot 기반 웹 / 서버 개발자**  
 
 ---
 
