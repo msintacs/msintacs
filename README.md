@@ -25,4 +25,4 @@
   - Linux/Oracle 기반 메시징 시스템 운영 및 장애 대응  
   - 고객사 솔루션 배포/설정 및 DB 모니터링  
 
-📫 **Contact:** msintacs@daum.net
+📫 **Contact:** msintacs@gmail.com
