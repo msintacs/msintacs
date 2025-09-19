@@ -1,4 +1,4 @@
-# Seongbong Kim  
+# 김성봉 (Seongbong Kim)  
 
 **Java/Spring Boot 기반 서버 개발자**  
 
