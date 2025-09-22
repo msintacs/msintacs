@@ -14,7 +14,7 @@
 
 ## 🚀 Projects
 - **Portfolio**  
-  [🔗 https://7imsb.info:32443](https://7imsb.info:32443)  
+  [🔗 https://7imsb.info](https://7imsb.info)  
 
 ## 💼 Experience
 - **젬텍 (2023.10 ~ )**  
