@@ -15,6 +15,8 @@
 ## 🚀 Projects
 - **Portfolio**  
   [🔗 https://7imsb.info](https://7imsb.info)  
+  - AWS (EC2,RDS) + Nginx + Spring Boot + React 환경에서 배포 및 운영
+  - Let’s Encrypt 인증서 적용, 도메인 연결 및 보안 설정 경험
 
 ## 💼 Experience
 - **젬텍 (2023.10 ~ )**  
