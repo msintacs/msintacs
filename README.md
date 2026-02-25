@@ -1,6 +1,6 @@
 # 김성봉 (Seongbong Kim)  
 
-**Java/Spring Boot 기반 백엔드 개발자**  
+**Java/Spring Boot 기반 백엔드 개발자 (3년차)**  
 
 ## 🔧 Tech Stack
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
