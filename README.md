@@ -13,12 +13,15 @@
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 
 ## 💼 Experience
-- **젬텍 (2023.10 ~ )**  
-  - TCP 통신 모듈 안정화, 동시성 이슈 해결  
-  - JSP → React + Spring Boot 아키텍처 전환  
+**젬텍 (2023.10 ~ )**  
+동시성 제어와 고가용성이 중요한 메시징 게이트웨이 시스템 개발/운영
+- TCP 세션 자가치유 구조 설계 → 수동 개입 없는 통신 복구
+- ConcurrentHashMap 기반 요청-응답 정합성 확보
+- 스레드 Hang 분석 및 인터럽트 제어 개선 → 동일 장애 재발 0건
+- 대용량 로그 검색 속도 약 50% 개선
 
-- **아이하트 (2020.04 ~ 2022.08)**  
-  - Linux/Oracle 기반 메시징 시스템 운영 및 장애 대응  
-  - 고객사 솔루션 배포/설정 및 DB 모니터링  
+**아이하트 (2020.04 ~ 2022.08)**  
+기업용 메시징 시스템 인프라 구축 및 기술지원
 
+🔗 **GitHub:** https://github.com/msintacs  
 📫 **Contact:** ksbthyls@gmail.com
