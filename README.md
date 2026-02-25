@@ -23,5 +23,8 @@
 **아이하트 (2020.04 ~ 2022.08)**  
 기업용 메시징 시스템 인프라 구축 및 기술지원
 
+## 🎓 Education
+- 한국방송통신대학교 컴퓨터과학과 재학 중 (2025.09 ~ )  
+  
 🔗 **GitHub:** https://github.com/msintacs  
 📫 **Contact:** ksbthyls@gmail.com
