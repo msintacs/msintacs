@@ -26,5 +26,4 @@
 ## 🎓 Education
 - 한국방송통신대학교 컴퓨터과학과 재학 중 (2025.09 ~ )  
   
-🔗 **GitHub:** https://github.com/msintacs  
 📫 **Contact:** ksbthyls@gmail.com
