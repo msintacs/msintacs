@@ -20,16 +20,12 @@
   </a>
 </p>
 
-<br>
-
 ### About me
 
 - **Work** · 기업 메시징·RCS 백엔드 및 서버 개발
 - **Focus** · TCP/HTTP 외부 연동, 운영 이슈 분석과 안정성 개선
 - **Learning** · Kotlin · Spring Boot
 - **Education** · 한국방송통신대학교 컴퓨터과학과 재학
-
-<br>
 
 ### Tech stack
 
@@ -42,13 +38,11 @@
 
 업무에서 C · JDBC · JPA · QueryDSL · React도 사용합니다.
 
-<br>
-
 ### Featured project
 
-<table>
+<table width="100%">
   <tr>
-    <td>
+    <td width="100%">
       <h3><a href="https://github.com/msintacs/relayhub">RelayHub ↗</a></h3>
       <p>이벤트를 받아 구독된 웹훅으로 전달하고, 처리 결과를 기록하는 개인 프로젝트입니다.</p>
       <p>
