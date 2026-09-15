@@ -1,29 +1,66 @@
-# 김성봉 (Seongbong Kim)  
+<p align="center">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:164e63&height=180&text=SEONGBONG%20KIM&fontColor=f8fafc&fontSize=38&fontAlignY=43&desc=BACKEND%20%C2%B7%20SERVER%20DEVELOPER&descSize=13&descAlignY=65"
+    alt="Seongbong Kim — Backend · Server Developer"
+  />
+</p>
 
-**Java/Spring Boot 기반 백엔드 개발자 (3년차)**  
+<p align="center">
+  Java와 Spring Boot로 기업 메시징 시스템을 개발하고 운영합니다.<br>
+  로그에서 문제를 찾고, 코드와 재현으로 확인합니다.
+</p>
 
-## 🔧 Tech Stack
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-59666C?logo=hibernate&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+<p align="center">
+  <a href="mailto:ksbthyls@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-155e75?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://github.com/msintacs/relayhub">
+    <img src="https://img.shields.io/badge/PROJECT-155e75?style=flat-square&logo=github&logoColor=white" alt="Project">
+  </a>
+</p>
 
-## 💼 Experience
-**젬텍 (2023.10 ~ )**  
-동시성 제어와 고가용성이 중요한 메시징 게이트웨이 시스템 개발/운영
-- TCP 세션 자가치유 구조 설계 → 수동 개입 없는 통신 복구
-- ConcurrentHashMap 기반 요청-응답 정합성 확보
-- 스레드 Hang 분석 및 인터럽트 제어 개선 → 동일 장애 재발 0건
-- 대용량 로그 검색 속도 약 50% 개선
+<br>
 
-**아이하트 (2020.04 ~ 2022.08)**  
-기업용 메시징 시스템 인프라 구축 및 기술지원
+### About me
 
-## 🎓 Education
-- 한국방송통신대학교 컴퓨터과학과 재학 중 (2025.09 ~ )  
-  
-📫 **Contact:** ksbthyls@gmail.com
+- **Work** · 기업 메시징·RCS 백엔드 및 서버 개발
+- **Focus** · TCP/HTTP 외부 연동, 운영 이슈 분석과 안정성 개선
+- **Learning** · Kotlin · Spring Boot
+- **Education** · 한국방송통신대학교 컴퓨터과학과 재학
+
+<br>
+
+### Tech stack
+
+<p>
+  <img src="https://img.shields.io/badge/Java-334155?style=flat-square" alt="Java">
+  <img src="https://img.shields.io/badge/Spring_Boot-334155?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/MySQL-334155?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Linux-334155?style=flat-square&logo=linux&logoColor=white" alt="Linux">
+</p>
+
+업무에서 C · JDBC · JPA · QueryDSL · React도 사용합니다.
+
+<br>
+
+### Featured project
+
+<table>
+  <tr>
+    <td>
+      <h3><a href="https://github.com/msintacs/relayhub">RelayHub ↗</a></h3>
+      <p>이벤트를 받아 구독된 웹훅으로 전달하고, 처리 결과를 기록하는 개인 프로젝트입니다.</p>
+      <p>
+        엔드포인트 검증 · 이벤트 구독 · 웹훅 전송 · 성공/실패 이력<br>
+        인메모리 환경에서 실행하며, 로컬 시뮬레이터와 테스트를 포함합니다.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Kotlin-155e75?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin">
+        <img src="https://img.shields.io/badge/Spring_Boot-155e75?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot">
+        <img src="https://img.shields.io/badge/GitHub_Actions-155e75?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
+      </p>
+      <p><a href="https://github.com/msintacs/relayhub">코드와 실행 방법 살펴보기 →</a></p>
+    </td>
+  </tr>
+</table>
