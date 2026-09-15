@@ -24,7 +24,7 @@
 
 - **Work** · 기업 메시징·RCS 백엔드 및 서버 개발
 - **Focus** · TCP/HTTP 외부 연동, 운영 이슈 분석과 안정성 개선
-- **Learning** · Kotlin · Spring Boot
+- **Learning** · Java/Spring Boot 기반 서비스 설계와 데이터 정합성
 - **Education** · 한국방송통신대학교 컴퓨터과학과 재학
 
 ### Tech stack
